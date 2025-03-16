@@ -1,1 +1,1 @@
-Usage description can be found in the [wiki](https://github.com/thunderbird/addon-developer-support/wiki/Using-the-WindowListener-API-to-convert-a-Legacy-Overlay-WebExtension-into-a-MailExtension-for-Thunderbird-78).
+Usage description _used_ to be found in the forked repository [wiki](https://github.com/thunderbird/addon-developer-support/wiki/Using-the-WindowListener-API-to-convert-a-Legacy-Overlay-WebExtension-into-a-MailExtension-for-Thunderbird-78) - but it's been removed, and we can no longer access it. So, TO BE WRITTEN
